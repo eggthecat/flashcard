@@ -1,0 +1,16 @@
+.hidden {
+    visibility: hidden;
+}
+
+.clickable {
+  color: #3b4c63;
+  font-weight: bold;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+.container {
+  padding: 20px;
+}
